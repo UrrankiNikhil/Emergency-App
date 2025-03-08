@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter" alt="Platform" />
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
   <h1>🚨 Emergency Response App</h1>
   <p>A real-time emergency assistance mobile application</p>
 </div>
