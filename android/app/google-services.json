@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "842603365550",
+    "firebase_url": "https://emergency-alerts-ae852-default-rtdb.firebaseio.com",
+    "project_id": "emergency-alerts-ae852",
+    "storage_bucket": "emergency-alerts-ae852.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842603365550:android:8f7f7d77cc3f45843a593f",
+        "android_client_info": {
+          "package_name": "com.example.emergency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1DBcqZye3ix453TJSICvDzJiO21RELE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

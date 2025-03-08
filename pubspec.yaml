@@ -1,0 +1,39 @@
+name: emergency
+description: "Emergency Services Application"
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.20.0
+  cloud_firestore: ^4.17.5
+  firebase_storage: ^11.6.5
+  firebase_messaging: ^14.7.15
+  google_fonts: ^4.0.4
+  animate_do: ^3.3.3
+  glass_kit: ^3.0.0
+  google_sign_in: ^6.2.1
+  provider: ^6.1.1
+  http: ^0.13.5
+  socket_io_client: ^2.0.0
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.2
+  glassmorphism: ^3.0.0
+  flutter_staggered_grid_view: ^0.7.0
+  geolocator: ^9.0.0
+  firebase_database: ^10.5.7
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,41 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# Editor folders
+.idea/
+.vscode/
+
+# Build artifacts and dependency directories
+.build/
+.buildlog/
+history/
+.dart_tool/
+.pub/
+/build/
+
+# Flutter & Dart specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+
+# Android specific
+android/app/debug
+android/app/profile
+android/app/release
+android/.gradle
+android/build/
+
+# iOS specific
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/build/
+
+# Linux, macOS, Windows specific (if applicable)
+linux/flutter/ephemeral
+macos/Runner.xcworkspace
+windows/flutter/ephemeral/
